@@ -1,0 +1,8 @@
+stereo_vision_starter/
+2011_09_26/
+.vscode/
+yolov5/
+yolov5s.pt
+
+*.zip
+*.swp
